@@ -1,4 +1,4 @@
-## Chatbot iMplementation
+## Chatbot Implementation
 #  Chatbot using NLP and Streamlit
 
 This project is a simple but functional chatbot built using Natural Language Processing (NLP) techniques and Logistic Regression. The chatbot classifies user input into predefined intents and responds accordingly. The entire chatbot interface is built using Streamlit, providing an interactive web application for real-time conversations.
